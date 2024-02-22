@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g CMakeFiles/recv_window.dir/recv_window.cc.o -o recv_window  libminnow_testing_debug.a ../src/libminnow_debug.a ../util/libutil_debug.a 

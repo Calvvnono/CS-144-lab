@@ -1,0 +1,2 @@
+/usr/bin/ar qc libminnow_debug.a CMakeFiles/minnow_debug.dir/byte_stream.cc.o CMakeFiles/minnow_debug.dir/byte_stream_helpers.cc.o CMakeFiles/minnow_debug.dir/network_interface.cc.o CMakeFiles/minnow_debug.dir/reassembler.cc.o CMakeFiles/minnow_debug.dir/tcp_receiver.cc.o CMakeFiles/minnow_debug.dir/tcp_sender.cc.o CMakeFiles/minnow_debug.dir/wrapping_integers.cc.o
+/usr/bin/ranlib libminnow_debug.a

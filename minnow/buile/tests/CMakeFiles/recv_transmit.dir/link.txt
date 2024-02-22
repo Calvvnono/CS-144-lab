@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g CMakeFiles/recv_transmit.dir/recv_transmit.cc.o -o recv_transmit  libminnow_testing_debug.a ../src/libminnow_debug.a ../util/libutil_debug.a 
